@@ -1,0 +1,5 @@
+embeddings/df_finalvagas.pkl filter=lfs diff=lfs merge=lfs -text
+bases/applicants.json filter=lfs diff=lfs merge=lfs -text
+embeddings/df_finalcandidatos.pkl filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text

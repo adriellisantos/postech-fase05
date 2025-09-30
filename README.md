@@ -1,4 +1,4 @@
-# TECH CHALLENGE - DATATHON - Fase 5 - Pós Tech Data Analytics - FIAP - RM360405
+# DATATHON - Fase 5 - Pós Tech Data Analytics - FIAP - RM360405
 
 ## Descrição do projeto
 

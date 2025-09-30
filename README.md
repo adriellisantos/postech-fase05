@@ -8,7 +8,7 @@ Este projeto tem como objetivo construir um sistema de recomendação de candida
 🔗 [Link da aplicação no Streamlit](https://data-analytics-postech-fase05.streamlit.app)
 
 ## Youtube  
-🎥 [Link do vídeo no Youtube](https://www.youtube.com/watch?v=sjKQCHN1-J8)
+🎥 [Link do vídeo no Youtube]([https://www.youtube.com/watch?v=sjKQCHN1-J8](https://youtu.be/BPD_oQ_02zk))
 
 ## Stack utilizada
 

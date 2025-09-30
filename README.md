@@ -4,6 +4,12 @@
 
 Este projeto tem como objetivo construir um sistema de recomendação de candidatos para vagas de emprego utilizando técnicas de processamento de linguagem natural (NLP) e aprendizado de máquina. O sistema analisa informações detalhadas dos candidatos e das vagas, gera embeddings textuais para os perfis e realiza cálculo de similaridade para indicar os candidatos mais adequados para cada vaga.
 
+## Streamlit  
+🔗 [Link da aplicação no Streamlit](https://data-analytics-postech-fase05.streamlit.app)
+
+## Youtube  
+🎥 [Link do vídeo no Youtube](https://www.youtube.com/watch?v=sjKQCHN1-J8)
+
 ## Stack utilizada
 
 - Python 3

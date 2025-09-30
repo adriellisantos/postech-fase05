@@ -1,5 +1,4 @@
 # TECH CHALLENGE - DATATHON - Fase 5 - Pós Tech Data Analytics - FIAP - RM360405
-Projeto de Recomendação de Candidatos para Vagas
 
 ## Descrição do projeto
 

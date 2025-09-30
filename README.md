@@ -34,7 +34,13 @@ Este projeto tem como objetivo construir um sistema de recomendação de candida
 4. Aplique os pesos sobre os embeddings conforme definido para cada grupo de características.
 5. Faça o merge dos dados para preparar os pares candidatos-vagas para o treinamento.
 6. Treine o modelo utilizando os embeddings processados, calculando a similaridade de cosseno para recomendações.
-7. Serialize os dataframes finais com os embeddings para uso futuro, salvando-os em arquivos `.pkl` com `pickle`. 
+7. Serialize os dataframes finais com os embeddings para uso futuro, salvando-os em arquivos `.pkl` com `pickle`.
+
+## Arquivos neste diretório do Github  
+- **Bases**: Pasta com os arquivos em `.json` utilizados para análise e treinamento
+- **Embeddings**: Dataframes finais com os embedding para utilizar na aplicação web
+- **Notebook do Machine Learning**: Contém o Notebook utilizado para desenvolvimento do processamento dos dados e treinamento dos embeddings processados.
+
 
 
 

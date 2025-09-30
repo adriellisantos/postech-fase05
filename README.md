@@ -14,7 +14,7 @@ Este projeto tem como objetivo construir um sistema de recomendação de candida
 
 - Python 3
 - Bibliotecas: pandas, numpy, matplotlib, seaborn, re, datetime, warnings
-- NLP e embeddings: Sentence-Transformers (`paraphrase-multilingual-MiniLM-L12-v2` e `all-MiniLM-L12-v2`)
+- NLP e embeddings: Sentence-Transformers (`paraphrase-multilingual-MiniLM-L12-v2``)
 - Machine Learning: scikit-learn (train_test_split, métricas, cosine_similarity)
 - Outras: pickle para serialização, huggingface_hub para autenticação e carregamento de modelos
 

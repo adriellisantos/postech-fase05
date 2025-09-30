@@ -45,7 +45,7 @@ Este projeto tem como objetivo construir um sistema de recomendação de candida
 ## Arquivos neste diretório do Github  
 - **Bases**: Pasta com os arquivos em `.json` utilizados para análise e treinamento
 - **Embeddings**: Dataframes finais com os embedding para utilizar na aplicação web
-- **Notebook do Machine Learning**: Contém o Notebook utilizado para desenvolvimento do processamento dos dados e treinamento dos embeddings processados.
+- **Notebook do Machine Learning**: Contém o Notebook utilizado para desenvolvimento do processamento dos dados e treinamento dos embeddings processados. Temos dois arquivo um via Upload e outro por Colab, mas são o mesmo arquivo.
 
 
 
